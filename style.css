@@ -1,0 +1,104 @@
+body{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: 18%;
+}
+.container{
+    margin-bottom: 30px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-indicators li{
+    background-image: linear-gradient(to right, orange, yellow);
+    height: 5px;
+}
+section{
+    background-image: url("hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px 300px ;
+}
+.flex-korbo{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px  10px whitesmoke;
+    border-radius: 10px;
+}
+.seeall{
+    text-decoration: none;
+    color:orange;
+}
+.seeall:hover{
+    text-decoration: none;
+    color:orange;
+}
+p{
+    color: grey;
+}
+#cat{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.divider{
+    margin-top: 50px;
+    border: 0;
+    box-shadow: 5px 5px  10px rgb(218, 218, 218);
+    border-radius: 0px 30px;
+    padding: 50px;
+}
+.center{
+    margin-top: 20px;
+    text-align: center;
+}
+#bag{
+    margin-top: 160px;
+    box-shadow: 5px 5px  30px rgb(218, 218, 218);
+    border-radius: 0px 30px;
+    padding: 50px;
+}
+.provides{
+    color: indigo;
+    margin-bottom: 30px;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+.card-title-last{
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+}
+#social{
+    margin-right: 20px;
+    margin-bottom: 5px;
+    width: 70px;
+    height: 70px;
+}
+#bg{
+    color: rgb(0, 0, 0);
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, whitesmoke, white);
+    border-radius: 30px;
+}
+#padding{
+    padding: 50px;
+}
+#input{
+    width: 90%;
+}
